@@ -20,15 +20,17 @@ $(function () {
     socket.emit("sel-card", [this.id, user.color]);
   });
   
+  socket.on("logged in", function(user){
+    $("body").append(user.username);
+      socket.emit('get card', JSON.parse(user.collection));
+      socket.on("card info", function(cardArray){
+        _.forEach(cardArray, function(el, index, list){
+          $("body").append(el.name + " " + el.power);
+        })
+      });
+  });
+  
   socket.on("selected-card", function([id, color]){
     $("#" + id).css("background-color", color);
-  });
-
-  socket.on('send db', function(_db){
-    db = _db;
-    _.forEach(db, function(el, index, list){
-      $("#card" + index + " .card-name").text(el.name);
-      $("#card" + index + " .card-power").text(el.power);
-    })
   });
 });
