@@ -1,0 +1,19 @@
+VARS:
+  maxPacks = 27
+
+User:
+  //info
+  - username
+  - password
+  - hash
+  - userkey
+  - collection //all cards the user has
+  - decks // [[][]...], array of decks
+  //stats
+  - level
+  - exp
+  - gold
+  - rank
+  - userStatus
+  
+  

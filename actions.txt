@@ -1,0 +1,16 @@
+1. Return
+  - Return up to X cards to their owners hands when invoking this creature
+  - usage: "return <X>"
+2. Double Breaker
+  - Breaks 2 shields when attacking shields
+  - usage: "doublebreaker"
+3. Power Attacker
+  - Gets +X attack while attacking
+  - usage: "powerattacker <X>"
+4. Can't be blocked
+  - usage: "noblock"
+5. Destroy All Blockers
+  - usage: "destroyBlockers"
+6. Can be untapped
+  - At the end of each of your turns, you may untap this creature.
+  - usage: "canBeUntapped"

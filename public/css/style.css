@@ -1,8 +1,10 @@
+.partition {
+  position: relative;
+  height: 33%;
+}
+
 .card {
-  width: 200px;
-  height: 250px;
-  background-color: grey;
-  margin: 4px 4px;
-  display: inline-block;
-  cursor: pointer;
+  height: 200px;
+  width: 143px;
+  margin-right: 8px;
 }

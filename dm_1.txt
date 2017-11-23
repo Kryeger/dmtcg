@@ -1,0 +1,1525 @@
+Duel Masters: Base Set Card List Wizards/Shogakukan/Mitsui-Kids.
+Duel Masters: Base Set released March 2004
+
+Number: 120 cards total
+Civilizations:  24 darkness, 24 fire, 24 light, 24 nature, 24 water
+Rarity: 40 common, 30 uncommon, 30 rare, 10 very rare, 10 super rare
+1.
+Card Name:	Aqua Sniper
+Civilization:	Water
+Type:		Creature
+Race:		Liquid People
+Cost:		8
+Power:		5000
+Rules Text:	When you put this creature into the battle zone, choose up to 2 creatures in the battle zone and return them to their owners' hands.
+Flavor Text:	Water surrounds, enfolds, buoys...and attacks.
+Rarity:		S
+Collector #:	S3
+Artist:		Seki
+2.
+Card Name:	Astrocomet Dragon
+Civilization:	Fire
+Type:		Creature
+Race:		Armored Dragon
+Cost:		7
+Power:		6000+
+Rules Text:	Power attacker +4000 (While attacking, this creature gets +4000 power.)
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	Even the smallest weapon attached to it has enough firepower to lay waste to an entire nation.
+Rarity:		S
+Collector #:	S7
+Artist:		Yusaku Nakaaki
+3.
+Card Name:	Deathblade Beetle
+Civilization:	Nature
+Type:		Creature
+Race:		Giant Insect
+Cost:		5
+Power:		3000+
+Rules Text:	Power attacker +4000 (While attacking, this creature gets +4000 power.)
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	It devours all.
+Rarity:		S
+Collector #:	S9
+Artist:		Dustmoss
+4.
+Card Name:	Deathliger, Lion of Chaos
+Civilization:	Darkness
+Type:		Creature
+Race:		Demon Command
+Cost:		7
+Power:		9000
+Rules Text:	Double breaker (This creature breaks 2 shields.)
+Flavor Text:	The world is deafened by the roar of the deathliger.
+Rarity:		S
+Collector #:	S5
+Artist:		Atsushi Kawasaki
+5.
+Card Name:	Hanusa, Radiance Elemental
+Civilization:	Light
+Type:		Creature
+Race:		Angel Command
+Cost:		7
+Power:		9500
+Rules Text:	Double breaker (This creature breaks 2 shields.)
+Flavor Text:	The sky was scorched by Dragons' fire, and the earth gouged by elementals' rays. The battle raged for seven nights and seven days.
+Rarity:		S
+Collector #:	S1
+Artist:		Masaki Hirooka
+6.
+Card Name:	King Depthcon
+Civilization:	Water
+Type:		Creature
+Race:		Leviathan
+Cost:		7
+Power:		6000
+Rules Text:	Double breaker (This creature breaks 2 shields.)		
+      This creature can't be blocked.
+Flavor Text:	Leviathans are just like storms. All you can do is wait until they pass.
+Rarity:		S
+Collector #:	S4
+Artist:		Ryoya Yuki
+7.
+Card Name:	Roaring Great-Horn
+Civilization:	Nature
+Type:		Creature
+Race:		Horned Beast
+Cost:		7
+Power:		8000+
+Rules Text:	Power attacker +2000 (While attacking, this creature gets +2000 power.)
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	With a mighty, earthshaking roar, the King of Beasts arose.
+Rarity:		S
+Collector #:	S10
+Artist:		Ittoku
+8.
+Card Name:	Scarlet Skyterror
+Civilization:	Fire
+Type:		Creature
+Race:		Armored Wyvern
+Cost:		8
+Power:		3000
+Rules Text:	When you put this creature into the battle zone, destroy all creatures that have "blocker."
+Flavor Text:	The forces of Fire will never relent.
+Rarity:		S
+Collector #:	S8
+Artist:		Tomofumi Ogasawara
+9.
+Card Name:	Urth, Purifying Elemental
+Civilization:	Light
+Type:		Creature
+Race:		Angel Command
+Cost:		6
+Power:		6000
+Rules Text:	Double breaker (This creature breaks 2 shields.)
+		At the end of each of your turns, you may untap this creature.
+Flavor Text:	It is said the destruction of the Ancient Empire was caused by the descent of the elementals.
+Rarity:		S
+Collector #:	S2
+Artist:		Akifumi Yamamoto
+
+Card Name:	Zagaan, Knight of Darkness
+Civilization:	Darkness
+Type:		Creature
+Race:		Demon Command
+Cost:		6
+Power:		7000
+Rules Text:	Double breaker (This creature breaks 2 shields.)
+Flavor Text:	"If I were to send him to the field, he would overwhelm the enemy in an instant. Where is the fun in that?" -Ballom, Master of Death
+Rarity:		S
+Collector #:	S6
+Artist:		Tsutomu Kawade
+
+Card Name:	Gran Gure, Space Guardian
+Civilization:	Light
+Type:		Creature
+Race:		Guardian
+Cost:		6
+Power:		9000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+Flavor Text:	Those who defile the Sky Castle are doomed, for they shall know the wrath of the Guardians.
+Rarity:		V
+Collector #:	5
+Artist:		D-Suzuki
+
+Card Name:	Rayla, Truth Enforcer
+Civilization:	Light
+Type:		Creature
+Race:		Berserker
+Cost:		6
+Power:		3000
+Rules Text:	When you put this creature into the battle zone, search your deck. You may take a spell from your deck, show that spell to your opponent, and put it into your hand. Then shuffle your deck.
+Flavor Text:	The Enforcers deliver the oracles' words, which bear the power of truth.
+Rarity:		V
+Collector #:	15
+Artist:		Dai
+
+Card Name:	King Ripped-Hide
+Civilization:	Water
+Type:		Creature
+Race:		Leviathan
+Cost:		7
+Power:		5000
+Rules Text:	When you put this creature into the battle zone, draw up to 2 cards.
+Flavor Text:	Long ago, the Cyber Lords built a city on his back.
+Rarity:		V
+Collector #:	34
+Artist:		Miho Midorikawa
+
+Card Name:	Seamine
+Civilization:	Water
+Type:		Creature
+Race:		Fish
+Cost:		6
+Power:		4000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+Flavor Text:	If the last thing in your life you want to see is something beautiful, attack an underwater city.
+Rarity:		V
+Collector #:	39
+Artist:		Tomofumi Ogasawara
+
+Card Name:	Gigargon
+Civilization:	Darkness
+Type:		Creature
+Race:		Chimera
+Cost:		8
+Power:		3000
+Rules Text:	When you put this creature into the battle zone, return up to 2 creatures from your graveyard to your hand.
+Flavor Text:	There is no rest in the Dark Realm, even after death.
+Rarity:		V
+Collector #:	57
+Artist:		Tsutomu Kawade
+
+Card Name:	Vampire Silphy
+Civilization:	Darkness
+Type:		Creature
+Race:		Dark Lord
+Cost:		8
+Power:		4000
+Rules Text:	When you put this creature into the battle zone, destroy all creatures that have power 3000 or less.
+Flavor Text:	Dark Lords have no mercy for the weak.
+Rarity:		V
+Collector #:	64
+Artist:		Masaki Hirooka
+
+Card Name:	Bolshack Dragon
+Civilization:	Fire
+Type:		Creature
+Race:		Armored Dragon
+Cost:		6
+Power:		6000+
+Rules Text:	While attacking, this creature gets +1000 power for each fire card in your graveyard.
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	The last city that offended it is now a ruin.
+Rarity:		V
+Collector #:	69
+Artist:		Ryoya Yuki
+
+Card Name:	Gatling Skyterror
+Civilization:	Fire
+Type:		Creature
+Race:		Armored Wyvern
+Cost:		7
+Power:		7000
+Rules Text:	This creature can attack untapped creatures.
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	Part chopper, part chomper.
+Rarity:		V
+Collector #:	79
+Artist:		Hisashi Momose
+
+Card Name:	Thorny Mandra
+Civilization:	Nature
+Type:		Creature
+Race:		Tree Folk
+Cost:		5
+Power:		4000
+Rules Text:	When you put this creature into the battle zone, you may put 1 creature from your graveyard into your mana zone.
+Flavor Text:	A beautiful flower, an alluring scent...and deadly thorns.
+Rarity:		V
+Collector #:	107
+Artist:		Atsushi Kawasaki
+
+Card Name:	Tower Shell
+Civilization:	Nature
+Type:		Creature
+Race:		Colony Beetle
+Cost:		6
+Power:		5000
+Rules Text:	This creature can't be blocked by any creature that has power 4000 or less.
+Flavor Text:	Not many things want to get in its way.
+Rarity:		V
+Collector #:	108
+Artist:		Atsushi Kawasaki
+
+Card Name:	Chilias, the Oracle
+Civilization:	Light
+Type:		Creature
+Race:		Light Bringer
+Cost:		4
+Power:		2500
+Rules Text:	When this creature would be destroyed, put it into your hand instead.
+Flavor Text:	The shining towers in the sky exist to protect the oracles.
+Rarity:		R
+Collector #:	1
+Artist:		Akira Hamada
+
+Card Name:	Dia Nork, Moonlight Guardian
+Civilization:	Light
+Type:		Creature
+Race:		Guardian
+Cost:		4
+Power:		5000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+Flavor Text:	Flying is the greatest taboo of any race that has encountered the Guardians.
+Rarity:		R
+Collector #:	2
+Artist:		Tomofumi Ogasawara
+
+Card Name:	Holy Awe
+Civilization:	Light
+Type:		Spell
+Race:		
+Cost:		6
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Tap all your opponent's creatures in the battle zone.
+Flavor Text:	
+Rarity:		R
+Collector #:	6
+Artist:		Naoki Saito
+
+Card Name:	Lah, Purification Enforcer
+Civilization:	Light
+Type:		Creature
+Race:		Berserker
+Cost:		5
+Power:		5500
+Rules Text:	
+Flavor Text:	Those who have seen this Enforcer believe that eclipses are omens of disaster.
+Rarity:		R
+Collector #:	10
+Artist:		Hideaki Takamura
+
+Card Name:	Laser Wing
+Civilization:	Light
+Type:		Spell
+Race:		
+Cost:		5
+Power:		0
+Rules Text:	Choose up to 2 of your creatures in the battle zone. They can't be blocked this turn.
+Flavor Text:	This is light speed.
+Rarity:		R
+Collector #:	11
+Artist:		Gyokan
+
+Card Name:	Szubs Kin, Twilight Guardian
+Civilization:	Light
+Type:		Creature
+Race:		Guardian
+Cost:		5
+Power:		6000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+Flavor Text:	Those who dwell in the sky towers eradicate all intruders.
+Rarity:		R
+Collector #:	21
+Artist:		Ittoku
+
+Card Name:	Aqua Knight
+Civilization:	Water
+Type:		Creature
+Race:		Liquid People
+Cost:		5
+Power:		4000
+Rules Text:	When this creature would be destroyed, return it to your hand instead.
+Flavor Text:	Like a whirlpool, it never seems to end.
+Rarity:		R
+Collector #:	24
+Artist:		D-Suzuki
+
+Card Name:	Crystal Memory
+Civilization:	Water
+Type:		Spell
+Race:		
+Cost:		4
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Search your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.
+Flavor Text:	
+Rarity:		R
+Collector #:	29
+Artist:		Ryoya Yuki
+
+Card Name:	Saucer-Head Shark
+Civilization:	Water
+Type:		Creature
+Race:		Gel Fish
+Cost:		5
+Power:		3000
+Rules Text:	When you put this creature into the battle zone, return each creature in the battle zone that has power 2000 or less to its owner's hand.
+Flavor Text:	"Isn't it cool? The heads can be combined." -Tropico
+Rarity:		R
+Collector #:	38
+Artist:		Naoki Saito
+
+Card Name:	Teleportation
+Civilization:	Water
+Type:		Spell
+Race:		
+Cost:		5
+Power:		0
+Rules Text:	Choose up to 2 creatures in the battle zone and return them to their owners' hands.
+Flavor Text:	"Start all over from your previous life!" -Crystal Lancer
+Rarity:		R
+Collector #:	41
+Artist:		Akifumi Yamamoto
+
+Card Name:	Tropico
+Civilization:	Water
+Type:		Creature
+Race:		Cyber Lord
+Cost:		5
+Power:		3000
+Rules Text:	This creature can't be blocked while you have at least 2 other creatures in the battle zone.
+Flavor Text:	"I will lead you into battle."
+Rarity:		R
+Collector #:	42
+Artist:		Jason
+
+Card Name:	Unicorn Fish
+Civilization:	Water
+Type:		Creature
+Race:		Fish
+Cost:		4
+Power:		1000
+Rules Text:	When you put this creature into the battle zone, you may choose 1 creature in the battle zone and return it to its owner's hand.
+Flavor Text:	It attacks anything that enters its territory, even Leviathans.
+Rarity:		R
+Collector #:	43
+Artist:		Hisanobu Kometani
+
+Card Name:	Creeping Plague
+Civilization:	Darkness
+Type:		Spell
+Race:		
+Cost:		1
+Power:		0
+Rules Text:	Whenever any of your creatures becomes blocked this turn, it gets "slayer" until the end of the turn. (When a creature that has "slayer" loses a battle, destroy the other creature.)
+Flavor Text:	Witness the power of the Dark!
+Rarity:		R
+Collector #:	49
+Artist:		Ryoya Yuki
+
+Card Name:	Dark Clown
+Civilization:	Darkness
+Type:		Creature
+Race:		Brain Jacker
+Cost:		4
+Power:		6000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+		
+When this creature wins a battle, destroy it.
+Flavor Text:	
+Rarity:		R
+Collector #:	50
+Artist:		Jason
+
+Card Name:	Gigaberos
+Civilization:	Darkness
+Type:		Creature
+Race:		Chimera
+Cost:		5
+Power:		8000
+Rules Text:	When you put this creature into the battle zone, destroy 2 of your other creatures or destroy this creature.
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	
+Rarity:		R
+Collector #:	55
+Artist:		Katsuya
+
+Card Name:	Gigagiele
+Civilization:	Darkness
+Type:		Creature
+Race:		Chimera
+Cost:		5
+Power:		3000
+Rules Text:	Slayer (When this creature loses a battle, destroy the other creature.)
+Flavor Text:	By assembling parts of different magical beasts, the Dark Lords created a nightmare.
+Rarity:		R
+Collector #:	56
+Artist:		Hisashi Momose
+
+Card Name:	Night Master, Shadow of Decay
+Civilization:	Darkness
+Type:		Creature
+Race:		Ghost
+Cost:		6
+Power:		3000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+Flavor Text:	Don't turn around. You wouldn't want to see what's behind you.
+Rarity:		R
+Collector #:	59
+Artist:		Hideaki Takamura
+
+Card Name:	Terror Pit
+Civilization:	Darkness
+Type:		Spell
+Race:		
+Cost:		6
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Destroy 1 of your opponent's creatures.
+Flavor Text:	
+Rarity:		R
+Collector #:	63
+Artist:		Yusaku Nakaaki
+
+Card Name:	Chaos Strike
+Civilization:	Fire
+Type:		Spell
+Race:		
+Cost:		2
+Power:		0
+Rules Text:	Choose 1 of your opponent's untapped creatures in the battle zone. Your creatures can attack it this turn as though it were tapped.
+Flavor Text:	"You won't escape me!"
+Rarity:		R
+Collector #:	72
+Artist:		Soushi Hirose
+
+Card Name:	Draglide
+Civilization:	Fire
+Type:		Creature
+Race:		Armored Wyvern
+Cost:		5
+Power:		5000
+Rules Text:	This creature attacks each turn if able.
+Flavor Text:	Draglides grow with their mounts. Their bond is their weapon.
+Rarity:		R
+Collector #:	75
+Artist:		Ittoku
+
+Card Name:	Explosive Fighter Ucarn
+Civilization:	Fire
+Type:		Creature
+Race:		Dragonoid
+Cost:		5
+Power:		9000
+Rules Text:	When you put this creature into the battle zone, put 2 cards from your mana zone into your graveyard.
+		
+Double breaker (This creature breaks 2 shields.)
+Flavor Text:	Dragonoid fighters never retreat. They believe that a heroic fighter will become a Dragon in his next life.
+Rarity:		R
+Collector #:	76
+Artist:		Hisanobu Kometani
+
+Card Name:	Magma Gazer
+Civilization:	Fire
+Type:		Spell
+Race:		
+Cost:		3
+Power:		0
+Rules Text:	One of your creatures gets "power attacker +4000" and "double breaker" until the end of the turn. (A creature that has "power attacker +4000" and "double breaker" gets +4000 power while attacking and breaks 2 shields.)
+Flavor Text:	
+Rarity:		R
+Collector #:	81
+Artist:		Masaki Hirooka
+
+Card Name:	Nomad Hero Gigio
+Civilization:	Fire
+Type:		Creature
+Race:		Machine Eater
+Cost:		5
+Power:		3000
+Rules Text:	This creature can attack untapped creatures.
+Flavor Text:	"Time to move on. So many unexplored worlds; so much trash to find!" -Nomad Hero Gigio
+Rarity:		R
+Collector #:	83
+Artist:		Eiji Kaneda
+
+Card Name:	Rothus, the Traveler
+Civilization:	Fire
+Type:		Creature
+Race:		Armorloid
+Cost:		4
+Power:		4000
+Rules Text:	When you put this creature into the battle zone, destroy 1 of your creatures. Then your opponent chooses 1 of his creatures and destroys it.
+Flavor Text:	"Though battered and scarred, I march on through wars, storms, and strife. I march on."
+Rarity:		R
+Collector #:	85
+Artist:		Seki
+
+Card Name:	Aura Blast
+Civilization:	Nature
+Type:		Spell
+Race:		
+Cost:		4
+Power:		0
+Rules Text:	Each of your creatures in the battle zone gets "power attacker +2000" until the end of the turn. (While attacking, a creature that has "power attacker +2000" gets +2000 power.)
+Flavor Text:	Hear the roar of the mighty Earth!
+Rarity:		R
+Collector #:	89
+Artist:		Nottsuo
+
+Card Name:	Natural Snare
+Civilization:	Nature
+Type:		Spell
+Race:		
+Cost:		6
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Choose 1 of your opponent's creatures in the battle zone and put it into his mana zone.
+Flavor Text:	
+Rarity:		R
+Collector #:	99
+Artist:		Sansyu
+
+Card Name:	Red-Eye Scorpion
+Civilization:	Nature
+Type:		Creature
+Race:		Giant Insect
+Cost:		5
+Power:		4000
+Rules Text:	When this creature would be destroyed, put it into your mana zone instead.
+Flavor Text:	Never start a fire in the depths of a forest. Enraged red-eye scorpions will come after you.
+Rarity:		R
+Collector #:	103
+Artist:		Kou1
+
+Card Name:	Stampeding Longhorn
+Civilization:	Nature
+Type:		Creature
+Race:		Horned Beast
+Cost:		5
+Power:		4000
+Rules Text:	This creature can't be blocked by any creature that has power 3000 or less.
+Flavor Text:	A stampeding longhorn leaves nothing but dust in its wake.
+Rarity:		R
+Collector #:	104
+Artist:		Norikatsu Miyoshi
+
+Card Name:	Storm Shell
+Civilization:	Nature
+Type:		Creature
+Race:		Colony Beetle
+Cost:		7
+Power:		2000
+Rules Text:	When you put this creature into the battle zone, your opponent chooses 1 of his creatures in the battle zone and puts it into his mana zone.
+Flavor Text:	A Colony Beetle's spawning is a virtual nightmare. It covers the earth with a hail of its bullet-like eggs.
+Rarity:		R
+Collector #:	106
+Artist:		Sansyu
+
+Card Name:	Tri-horn Shepherd
+Civilization:	Nature
+Type:		Creature
+Race:		Horned Beast
+Cost:		5
+Power:		5000
+Rules Text:	
+Flavor Text:	Sometimes weeks pass before it realizes it has a gored enemy stuck to its horns.
+Rarity:		R
+Collector #:	109
+Artist:		Daisuke Izuka
+
+Card Name:	Frei, Vizier of Air
+Civilization:	Light
+Type:		Creature
+Race:		Initiate
+Cost:		4
+Power:		3000
+Rules Text:	At the end of each of your turns, you may untap this creature.
+Flavor Text:	"Vizier of Air, arise. Your fingers are sacred swords." -Hanusa, Radiance Elemental
+Rarity:		U
+Collector #:	4
+Artist:		Yusaku Nakaaki
+
+Card Name:	Iocant, the Oracle
+Civilization:	Light
+Type:		Creature
+Race:		Light Bringer
+Cost:		2
+Power:		2000+
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+While you have at least 1 Angel Command in the battle zone, this creature gets +2000 power.
+		
+This creature can't attack players.
+Flavor Text:	
+Rarity:		U
+Collector #:	8
+Artist:		Naoki Saito
+
+Card Name:	Lok, Vizier of Hunting
+Civilization:	Light
+Type:		Creature
+Race:		Initiate
+Cost:		4
+Power:		4000
+Rules Text:	
+Flavor Text:	"Vizier of Hunting, arise. Your words are arrows of light." -Hanusa, Radiance Elemental
+Rarity:		U
+Collector #:	12
+Artist:		Hisanobu Kometani
+
+Card Name:	Moonlight Flash
+Civilization:	Light
+Type:		Spell
+Race:		
+Cost:		4
+Power:		0
+Rules Text:	Choose up to 2 of your opponent's creatures in the battle zone and tap them.
+Flavor Text:	Cower before the purity of the Angel Commands!
+Rarity:		U
+Collector #:	14
+Artist:		Hisanobu Kometani
+
+Card Name:	Ruby Grass
+Civilization:	Light
+Type:		Creature
+Race:		StarLight Tree
+Cost:		3
+Power:		3000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+		
+At the end of each of your turns, you may untap this creature.
+Flavor Text:	
+Rarity:		U
+Collector #:	17
+Artist:		Naoki Saito
+
+Card Name:	Toel, Vizier of Hope
+Civilization:	Light
+Type:		Creature
+Race:		Initiate
+Cost:		5
+Power:		2000
+Rules Text:	At the end of each of your turns, you may untap all your creatures in the battle zone.
+Flavor Text:	"Vizier of Hope, arise. Your singing voice is a breeze of dawn." -Hanusa, Radiance Elemental
+Rarity:		U
+Collector #:	22
+Artist:		Masaki Hirooka
+
+Card Name:	Aqua Soldier
+Civilization:	Water
+Type:		Creature
+Race:		Liquid People
+Cost:		3
+Power:		1000
+Rules Text:	When this creature would be destroyed, return it to your hand instead.
+Flavor Text:	"What a spirit for such a skinny little thing." -Brawler Zyler
+Rarity:		U
+Collector #:	25
+Artist:		Jason
+
+Card Name:	Brain Serum
+Civilization:	Water
+Type:		Spell
+Race:		
+Cost:		4
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Draw up to 2 cards.
+Flavor Text:	
+Rarity:		U
+Collector #:	27
+Artist:		Dreamwave
+
+Card Name:	Faerie Child
+Civilization:	Water
+Type:		Creature
+Race:		Cyber Virus
+Cost:		4
+Power:		2000
+Rules Text:	This creature can't be blocked.
+Flavor Text:	A school of teeny, tiny points of light. Stopping them all is impossible.
+Rarity:		U
+Collector #:	30
+Artist:		Hisanobu Kometani
+
+Card Name:	Illusionary Merfolk
+Civilization:	Water
+Type:		Creature
+Race:		Gel Fish
+Cost:		5
+Power:		4000
+Rules Text:	When you put this creature into the battle zone, if you have a Cyber Lord in the battle zone, draw up to 3 cards.
+Flavor Text:	The Cyber Lords' devotion to beauty is so extreme, they even designed their warrior race to have a pleasant appearance.
+Rarity:		U
+Collector #:	32
+Artist:		Kou1
+
+Card Name:	King Coral
+Civilization:	Water
+Type:		Creature
+Race:		Leviathan
+Cost:		3
+Power:		1000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+Flavor Text:	Leviathans mature slowly, eventually growing to become the largest creatures in the world.
+Rarity:		U
+Collector #:	33
+Artist:		Hideaki Takamura
+
+Card Name:	Revolver Fish
+Civilization:	Water
+Type:		Creature
+Race:		Gel Fish
+Cost:		4
+Power:		5000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+Flavor Text:	
+Rarity:		U
+Collector #:	37
+Artist:		Naoki Saito
+
+Card Name:	Bone Spider
+Civilization:	Darkness
+Type:		Creature
+Race:		Living Dead
+Cost:		3
+Power:		5000
+Rules Text:	When this creature wins a battle, destroy it.
+Flavor Text:	They can wait forever, for they know they will not die alone.
+Rarity:		U
+Collector #:	48
+Artist:		Dai
+
+Card Name:	Dark Raven, Shadow of Grief
+Civilization:	Darkness
+Type:		Creature
+Race:		Ghost
+Cost:		4
+Power:		1000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+Flavor Text:	If you've ever thought there was something hiding in the dark, you were right.
+Rarity:		U
+Collector #:	51
+Artist:		Norikatsu Miyoshi
+
+Card Name:	Dark Reversal
+Civilization:	Darkness
+Type:		Spell
+Race:		
+Cost:		2
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Return a creature from your graveyard to your hand.
+Flavor Text:	
+Rarity:		U
+Collector #:	52
+Artist:		Nottsuo
+
+Card Name:	Masked Horror, Shadow of Scorn
+Civilization:	Darkness
+Type:		Creature
+Race:		Ghost
+Cost:		5
+Power:		1000
+Rules Text:	When you put this creature into the battle zone, your opponent discards a card at random from his hand.
+Flavor Text:	Seeking to live forever, they left their bodies behind.
+Rarity:		U
+Collector #:	58
+Artist:		Gyokan
+
+Card Name:	Stinger Worm
+Civilization:	Darkness
+Type:		Creature
+Race:		Parasite Worm
+Cost:		3
+Power:		5000
+Rules Text:	When you put this creature into the battle zone, destroy 1 of your creatures.
+Flavor Text:	When worms kill a creature, they can still make it move.
+Rarity:		U
+Collector #:	61
+Artist:		Norikatsu Miyoshi
+
+Card Name:	Swamp Worm
+Civilization:	Darkness
+Type:		Creature
+Race:		Parasite Worm
+Cost:		7
+Power:		2000
+Rules Text:	When you put this creature into the battle zone, your opponent chooses 1 of his creatures and destroys it.
+Flavor Text:	Flesh is its food. Bones are its toothpicks.
+Rarity:		U
+Collector #:	62
+Artist:		Youichi Kai
+
+Card Name:	Armored Walker Urherion
+Civilization:	Fire
+Type:		Creature
+Race:		Armorloid
+Cost:		4
+Power:		3000+
+Rules Text:	While you have at least 1 Humanoid in the battle zone, this creature gets +2000 power during its attacks.
+Flavor Text:	"The world at peace? I'd rather see the world in pieces."
+Rarity:		U
+Collector #:	67
+Artist:		Tsutomu Kawade
+
+Card Name:	Meteosaur
+Civilization:	Fire
+Type:		Creature
+Race:		Rock Beast
+Cost:		5
+Power:		2000
+Rules Text:	When you put this creature into the battle zone, you may destroy 1 of your opponent's creatures that has power 2000 or less.
+Flavor Text:	
+Rarity:		U
+Collector #:	82
+Artist:		Masateru Ikeda
+
+Card Name:	Onslaughter Triceps
+Civilization:	Fire
+Type:		Creature
+Race:		Dragonoid
+Cost:		3
+Power:		5000
+Rules Text:	When you put this creature into the battle zone, put 1 card from your mana zone into your graveyard.
+Flavor Text:	The first to the front lines are the first to taste victory.
+Rarity:		U
+Collector #:	84
+Artist:		Katsuya
+
+Card Name:	Stonesaur
+Civilization:	Fire
+Type:		Creature
+Race:		Rock Beast
+Cost:		5
+Power:		4000+
+Rules Text:	Power attacker +2000 (While attacking, this creature gets +2000 power.)
+Flavor Text:	There is no sanctuary in the Fire Territory. Especially on the featureless, rocky plains.
+Rarity:		U
+Collector #:	86
+Artist:		Miho Midorikawa
+
+Card Name:	Super Explosive Volcanodon
+Civilization:	Fire
+Type:		Creature
+Race:		Dragonoid
+Cost:		4
+Power:		2000+
+Rules Text:	Power attacker +4000 (While attacking, this creature gets +4000 power.)
+Flavor Text:	After it attacks, the lucky are left with rubble.
+Rarity:		U
+Collector #:	87
+Artist:		Naoki Saito
+
+Card Name:	Tornado Flame
+Civilization:	Fire
+Type:		Spell
+Race:		
+Cost:		5
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Destroy 1 of your opponent's creatures that has power 4000 or less.
+Flavor Text:	
+Rarity:		U
+Collector #:	88
+Artist:		Soushi Hirose
+
+Card Name:	Coiling Vines
+Civilization:	Nature
+Type:		Creature
+Race:		Tree Folk
+Cost:		4
+Power:		3000
+Rules Text:	When this creature would be destroyed, put it into your mana zone instead.
+Flavor Text:	They eat vegetarians.
+Rarity:		U
+Collector #:	92
+Artist:		D-Suzuki
+
+Card Name:	Dome Shell
+Civilization:	Nature
+Type:		Creature
+Race:		Colony Beetle
+Cost:		4
+Power:		3000+
+Rules Text:	Power attacker +2000 (While attacking, this creature gets +2000 power.)
+Flavor Text:	Colony Beetles feed on the World Tree to build gigantic nests on their backs.
+Rarity:		U
+Collector #:	94
+Artist:		Hisashi Momose
+
+Card Name:	Forest Hornet
+Civilization:	Nature
+Type:		Creature
+Race:		Giant Insect
+Cost:		4
+Power:		4000
+Rules Text:	
+Flavor Text:	With its deadly sting and crushing jaws, it makes the Horned Beasts cower.
+Rarity:		U
+Collector #:	96
+Artist:		Youichi Kai
+
+Card Name:	Pangaea's Song
+Civilization:	Nature
+Type:		Spell
+Race:		
+Cost:		1
+Power:		0
+Rules Text:	Put 1 of your creatures from the battle zone into your mana zone.
+Flavor Text:	"Here's something better for you to do." -Fighter Dual Fang
+Rarity:		U
+Collector #:	100
+Artist:		Seki
+
+Card Name:	Poisonous Dahlia
+Civilization:	Nature
+Type:		Creature
+Race:		Tree Folk
+Cost:		4
+Power:		5000
+Rules Text:	This creature can't attack players.
+Flavor Text:	"I will never give you up." -Symbolic meaning of the poisonous dahlia in flower language
+Rarity:		U
+Collector #:	101
+Artist:		Hideaki Takamura
+
+Card Name:	Poisonous Mushroom
+Civilization:	Nature
+Type:		Creature
+Race:		Balloon Mushroom
+Cost:		2
+Power:		1000
+Rules Text:	When you put this creature into the battle zone, you may put 1 card from your hand into your mana zone.
+Flavor Text:	You won't find these mushrooms on salads.
+Rarity:		U
+Collector #:	102
+Artist:		Daisuke Izuka
+
+Card Name:	Emerald Grass
+Civilization:	Light
+Type:		Creature
+Race:		StarLight Tree
+Cost:		2
+Power:		3000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+Flavor Text:	
+Rarity:		C
+Collector #:	3
+Artist:		Daisuke Izuka
+
+Card Name:	Iere, Vizier of Bullets
+Civilization:	Light
+Type:		Creature
+Race:		Initiate
+Cost:		3
+Power:		3000
+Rules Text:	
+Flavor Text:	"Vizier of Bullets, arise. Your will is an arrow that never misses the target." -Hanusa, Radiance Elemental
+Rarity:		C
+Collector #:	7
+Artist:		Akira Hamada
+
+Card Name:	La Ura Giga, Sky Guardian
+Civilization:	Light
+Type:		Creature
+Race:		Guardian
+Cost:		1
+Power:		2000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+Flavor Text:	To protect their floating cities, Guardians are gifted with shining wings.
+Rarity:		C
+Collector #:	9
+Artist:		Kou1
+
+Card Name:	Miele, Vizier of Lightning
+Civilization:	Light
+Type:		Creature
+Race:		Initiate
+Cost:		3
+Power:		1000
+Rules Text:	When you put this creature into the battle zone, you may choose 1 of your opponent's creatures in the battle zone and tap it.
+Flavor Text:	"Vizier of Lightning, arise. Your eyes are a bow of judgment." -Hanusa, Radiance Elemental
+Rarity:		C
+Collector #:	13
+Artist:		Dai
+
+Card Name:	Reusol, the Oracle
+Civilization:	Light
+Type:		Creature
+Race:		Light Bringer
+Cost:		2
+Power:		2000
+Rules Text:	
+Flavor Text:	Soul and light enmeshed in a web of glory.
+Rarity:		C
+Collector #:	16
+Artist:		Soushi Hirose
+
+Card Name:	Senatine Jade Tree
+Civilization:	Light
+Type:		Creature
+Race:		StarLight Tree
+Cost:		3
+Power:		4000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack players.
+Flavor Text:	Floating trees in the sky generate beautiful light from poisoned air.
+Rarity:		C
+Collector #:	18
+Artist:		Norikatsu Miyoshi
+
+Card Name:	Solar Ray
+Civilization:	Light
+Type:		Spell
+Race:		
+Cost:		2
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Choose 1 of your opponent's creatures in the battle zone and tap it.
+Flavor Text:	
+Rarity:		C
+Collector #:	19
+Artist:		Jason
+
+Card Name:	Sonic Wing
+Civilization:	Light
+Type:		Spell
+Race:		
+Cost:		3
+Power:		0
+Rules Text:	Choose 1 of your creatures in the battle zone. It can't be blocked this turn.
+Flavor Text:	"Can't catch me!"
+Rarity:		C
+Collector #:	20
+Artist:		Masaki Hirooka
+
+Card Name:	Aqua Hulcus
+Civilization:	Water
+Type:		Creature
+Race:		Liquid People
+Cost:		3
+Power:		2000
+Rules Text:	When you put this creature into the battle zone, you may draw a card.
+Flavor Text:	Liquid People freely control liquid. For them, water is armor and shield.
+Rarity:		C
+Collector #:	23
+Artist:		Eiji Kaneda
+
+Card Name:	Aqua Vehicle
+Civilization:	Water
+Type:		Creature
+Race:		Liquid People
+Cost:		2
+Power:		1000
+Rules Text:	
+Flavor Text:	The chip implanted in its head lets the Cyber Lords control its brain waves.
+Rarity:		C
+Collector #:	26
+Artist:		Atsushi Kawasaki
+
+Card Name:	Candy Drop
+Civilization:	Water
+Type:		Creature
+Race:		Cyber Virus
+Cost:		3
+Power:		1000
+Rules Text:	This creature can't be blocked.
+Flavor Text:	No mouth. Big bite.
+Rarity:		C
+Collector #:	28
+Artist:		Gyokan
+
+Card Name:	Hunter Fish
+Civilization:	Water
+Type:		Creature
+Race:		Fish
+Cost:		2
+Power:		3000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+Flavor Text:	It lies in wait, hidden in coral reefs, lashing out ferociously when it senses prey.
+Rarity:		C
+Collector #:	31
+Artist:		Masateru Ikeda
+
+Card Name:	Marine Flower
+Civilization:	Water
+Type:		Creature
+Race:		Cyber Virus
+Cost:		1
+Power:		2000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+Flavor Text:	It blooms in the ocean depths, far from any light.
+Rarity:		C
+Collector #:	35
+Artist:		Hikaru Ikusa
+
+Card Name:	Phantom Fish
+Civilization:	Water
+Type:		Creature
+Race:		Gel Fish
+Cost:		3
+Power:		4000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+Flavor Text:	
+Rarity:		C
+Collector #:	36
+Artist:		Ittoku
+
+Card Name:	Spiral Gate
+Civilization:	Water
+Type:		Spell
+Race:		
+Cost:		2
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Choose 1 creature in the battle zone and return it to its owner's hand.
+Flavor Text:	
+Rarity:		C
+Collector #:	40
+Artist:		Tomofumi Ogasawara
+
+Card Name:	Virtual Tripwire
+Civilization:	Water
+Type:		Spell
+Race:		
+Cost:		3
+Power:		0
+Rules Text:	Choose 1 of your opponent's creatures in the battle zone and tap it.
+Flavor Text:	It will stay until it dies.
+Rarity:		C
+Collector #:	44
+Artist:		Akifumi Yamamoto
+
+Card Name:	Black Feather, Shadow of Rage
+Civilization:	Darkness
+Type:		Creature
+Race:		Ghost
+Cost:		1
+Power:		3000
+Rules Text:	When you put this creature into the battle zone, destroy 1 of your creatures.
+Flavor Text:	
+Rarity:		C
+Collector #:	45
+Artist:		Soushi Hirose
+
+Card Name:	Bloody Squito
+Civilization:	Darkness
+Type:		Creature
+Race:		Brain Jacker
+Cost:		2
+Power:		4000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+		
+When this creature wins a battle, destroy it.
+Flavor Text:	
+Rarity:		C
+Collector #:	46
+Artist:		Atsushi Kawasaki
+
+Card Name:	Bone Assassin, the Ripper
+Civilization:	Darkness
+Type:		Creature
+Race:		Living Dead
+Cost:		4
+Power:		2000
+Rules Text:	Slayer (When this creature loses a battle, destroy the other creature.)
+Flavor Text:	Commanders send them to the front line. It's too dangerous to have them close.
+Rarity:		C
+Collector #:	47
+Artist:		Nottsuo
+
+Card Name:	Death Smoke
+Civilization:	Darkness
+Type:		Spell
+Race:		
+Cost:		4
+Power:		0
+Rules Text:	Destroy 1 of your opponent's untapped creatures.
+Flavor Text:	Savor the taste of fear!
+Rarity:		C
+Collector #:	53
+Artist:		Dustmoss
+
+Card Name:	Ghost Touch
+Civilization:	Darkness
+Type:		Spell
+Race:		
+Cost:		2
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Your opponent discards a card at random from his hand.
+Flavor Text:	
+Rarity:		C
+Collector #:	54
+Artist:		Soushi Hirose
+
+Card Name:	Skeleton Soldier, the Defiled
+Civilization:	Darkness
+Type:		Creature
+Race:		Living Dead
+Cost:		4
+Power:		3000
+Rules Text:	
+Flavor Text:	"Rip. Tear. Gnash. They all make the same delightful noises."
+Rarity:		C
+Collector #:	60
+Artist:		Katsuya
+
+Card Name:	Wandering Braineater
+Civilization:	Darkness
+Type:		Creature
+Race:		Living Dead
+Cost:		2
+Power:		2000
+Rules Text:	[Blocker] Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)
+		
+This creature can't attack.
+Flavor Text:	Devouring nice, fresh brains is all they know . . . and all they care about.
+Rarity:		C
+Collector #:	65
+Artist:		Youichi Kai
+
+Card Name:	Writhing Bone Ghoul
+Civilization:	Darkness
+Type:		Creature
+Race:		Living Dead
+Cost:		2
+Power:		2000
+Rules Text:	
+Flavor Text:	Seeking power, they gave up their intelligence. What they found was pain.
+Rarity:		C
+Collector #:	66
+Artist:		Eiji Kaneda
+
+Card Name:	Artisan Picora
+Civilization:	Fire
+Type:		Creature
+Race:		Machine Eater
+Cost:		1
+Power:		2000
+Rules Text:	When you put this creature into the battle zone, put 1 card from your mana zone into your graveyard.
+Flavor Text:	"Fix it? That's easy. Just hit it." -Legendary Artisan Picora
+Rarity:		C
+Collector #:	68
+Artist:		Akifumi Yamamoto
+
+Card Name:	Brawler Zyler
+Civilization:	Fire
+Type:		Creature
+Race:		Humanoid
+Cost:		2
+Power:		1000+
+Rules Text:	Power attacker +2000 (While attacking, this creature gets +2000 power.)
+Flavor Text:	"I wouldn't, if I were you. You don't want to get hurt."
+Rarity:		C
+Collector #:	70
+Artist:		Tsutomu Kawade
+
+Card Name:	Burning Power
+Civilization:	Fire
+Type:		Spell
+Race:		
+Cost:		1
+Power:		0
+Rules Text:	One of your creatures gets "power attacker +2000" until the end of the turn. (While attacking, a creature that has "power attacker +2000" gets +2000 power.)
+Flavor Text:	Witness the power of whirling fire!
+Rarity:		C
+Collector #:	71
+Artist:		Miho Midorikawa
+
+Card Name:	Crimson Hammer
+Civilization:	Fire
+Type:		Spell
+Race:		
+Cost:		2
+Power:		0
+Rules Text:	Destroy 1 of your opponent's creatures that has power 2000 or less.
+Flavor Text:	There's nothing a Machine Eater enjoys more than a good game of Whack-a-Hulcus.
+Rarity:		C
+Collector #:	73
+Artist:		Daisuke Izuka
+
+Card Name:	Deadly Fighter Braid Claw
+Civilization:	Fire
+Type:		Creature
+Race:		Dragonoid
+Cost:		1
+Power:		1000
+Rules Text:	This creature attacks each turn if able.
+Flavor Text:	A Dragonoid's true home is the battlefield.
+Rarity:		C
+Collector #:	74
+Artist:		Yusaku Nakaaki
+
+Card Name:	Fatal Attacker Horvath
+Civilization:	Fire
+Type:		Creature
+Race:		Humanoid
+Cost:		3
+Power:		2000+
+Rules Text:	While you have at least 1 Armorloid in the battle zone, this creature gets +2000 power during its attacks.
+Flavor Text:	"Any final words?"
+Rarity:		C
+Collector #:	77
+Artist:		Dai
+
+Card Name:	Fire Sweeper Burning Hellion
+Civilization:	Fire
+Type:		Creature
+Race:		Dragonoid
+Cost:		4
+Power:		3000+
+Rules Text:	Power attacker +2000 (While attacking, this creature gets +2000 power.)
+Flavor Text:	Those who leave battle last are the ones who savor victory the longest.
+Rarity:		C
+Collector #:	78
+Artist:		Sansyu
+
+Card Name:	Immortal Baron, Vorg
+Civilization:	Fire
+Type:		Creature
+Race:		Humanoid
+Cost:		2
+Power:		2000
+Rules Text:	
+Flavor Text:	"You see? The one who wins is the one who has the bigger weapon."
+Rarity:		C
+Collector #:	80
+Artist:		Dustmoss
+
+Card Name:	Bronze-Arm Tribe
+Civilization:	Nature
+Type:		Creature
+Race:		Beast Folk
+Cost:		3
+Power:		1000
+Rules Text:	When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+Flavor Text:	They're bringing some friends to the party.
+Rarity:		C
+Collector #:	90
+Artist:		Yusaku Nakaaki
+
+Card Name:	Burning Mane
+Civilization:	Nature
+Type:		Creature
+Race:		Beast Folk
+Cost:		2
+Power:		2000
+Rules Text:	
+Flavor Text:	It pulled a young tree up by the roots, swinging it over its head as though it were a twig.
+Rarity:		C
+Collector #:	91
+Artist:		Sansyu
+
+Card Name:	Dimension Gate
+Civilization:	Nature
+Type:		Spell
+Race:		
+Cost:		3
+Power:		0
+Rules Text:	[Shield trigger] Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)
+		
+Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+Flavor Text:	
+Rarity:		C
+Collector #:	93
+Artist:		Jason
+
+Card Name:	Fear Fang
+Civilization:	Nature
+Type:		Creature
+Race:		Beast Folk
+Cost:		3
+Power:		3000
+Rules Text:	
+Flavor Text:	The Beast Folk are gifted with huge muscles to withstand the tremendous gravity of the World Tree.
+Rarity:		C
+Collector #:	95
+Artist:		Norikatsu Miyoshi
+
+Card Name:	Golden Wing Striker
+Civilization:	Nature
+Type:		Creature
+Race:		Beast Folk
+Cost:		3
+Power:		2000+
+Rules Text:	Power attacker +2000 (While attacking, this creature gets +2000 power.)
+Flavor Text:	Hawk warriors hunt faster than the wind.
+Rarity:		C
+Collector #:	97
+Artist:		Miho Midorikawa
+
+Card Name:	Mighty Shouter
+Civilization:	Nature
+Type:		Creature
+Race:		Beast Folk
+Cost:		3
+Power:		2000
+Rules Text:	When this creature would be destroyed, put it into your mana zone instead.
+Flavor Text:	"I am not pink!"
+Rarity:		C
+Collector #:	98
+Artist:		Dustmoss
+
+Card Name:	Steel Smasher
+Civilization:	Nature
+Type:		Creature
+Race:		Beast Folk
+Cost:		2
+Power:		3000
+Rules Text:	This creature can't attack players.
+Flavor Text:	"Me big. Me tough. Me smash." -Iron Hammer, Boar Warrior
+Rarity:		C
+Collector #:	105
+Artist:		Katsuya
+
+Card Name:	Ultimate Force
+Civilization:	Nature
+Type:		Spell
+Race:		
+Cost:		5
+Power:		0
+Rules Text:	Put the top 2 cards of your deck into your mana zone.
+Flavor Text:	"Great Earth, give me your might!" -Fighter Dual Fang
+Rarity:		C
+Collector #:	110
+Artist:		Sansyu
+
+
+Duel Masters, the Duel Masters logo, character names, and their distinctive likenesses are TM and Copyright 1996 Wizards of the Coast/Takara-Tomy/Shogakukan/Mitsui-Kids.

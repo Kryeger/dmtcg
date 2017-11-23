@@ -8,6 +8,8 @@ var path = require('path');
 var winston = require('winston');
 var _ = require('underscore');
 var async = require('async');
+var Chance = require('chance');
+chance = new Chance();
 var crypto = require('crypto'), algorithm = 'aes-256-ctr', password = 'Qqo*o[{MYFx<fwrq[4/\$7^J[PBR<==DnN?JO*tW{C*"WY1R}jCK]%7%WOy}i%r';
 
 function encrypt(text){
@@ -23,15 +25,10 @@ function decrypt(text){
   return dec;
 }
 
-var logger = new winston.Logger({
-  level: 'error',
-  transports: [
-    new (winston.transports.File)({ filename: 'error.log' })
-  ]
-});
+var s = chance.string();
 
-
-
+//const errorLog = require('/utils/logger').errorlog;
+//const successlog = require('/utils/logger').successlog;
 var con = mysql.createConnection({
   host: "mysql1.gear.host",
   user: "dmtcg",
@@ -81,33 +78,65 @@ io.on('connection', function(socket){
   socket.on('disconnect', function(){
     console.log('user disconnected');
   });
-  socket.on('chat message', function(user){
-    io.emit('chat message', user);
-  });
-  socket.on('sel-card', function([id, color]){
-    io.emit('selected-card', [id, color]);
-  });
-  socket.on("login", function(obj){
-    con.query("SELECT `password` FROM users WHERE `username` = '" + obj.user + "'", function(err, result){
+  socket.on("get card", function(cardArray){
+    str = "(" + cardArray.join() + ")";
+    con.query("SELECT * FROM cards WHERE `id` in " + str + "", function(err, result){
       if (err) throw err;
-      if(encrypt(obj.pass) == result[0].password){
-          con.query("SELECT * FROM users WHERE `username` = '" + obj.user + "'", function(err, result){
-            if (err) throw err;
-            io.emit('logged in', result[0]);
-          });
-        console.log(obj.user + " logged in.");
-      }
-      else console.log("Login for user " + obj.user + " failed.");
+      io.emit('card info', result);
     });
   });
-  socket.on("get card", function(cardArray){
-    console.log(cardArray);
-    str = "(" + cardArray.join() + ")";
-    console.log(str);
-    con.query("SELECT * FROM cards WHERE `id` in " + str + "", function(err, result){
-      //if (err) throw err;
-      console.log(result);
-      io.emit('card info', result);
+  socket.on("register req", function(user){
+    var success = 0;
+    con.query("SELECT `id` FROM users WHERE `username` = '" + user.name + "' LIMIT 1", function(err, result){
+      if (err) throw err;
+      if (result.length){
+        console.log("Username taken.");
+        io.emit('register response', [success]);
+      }
+      else {
+        success = 1;
+        var cm = "','";
+        user.collection = user.decks = "[]";
+        user.hash = chance.string({length: 64 - user.pass.length});
+        user.pass = encrypt(user.pass + user.hash);
+        user.key = chance.string({length: 64});
+        con.query("INSERT INTO users (`username`, `password`, `hash`, `userkey`, `collection`, `decks`) VALUES('" + user.name + cm + user.pass + cm + user.hash + cm + user.key + cm + user.collection + cm + user.decks + "')", function(err, result){
+          if (err) throw err;
+        });
+        con.query("SELECT `id` FROM users WHERE `username` = '" + user.name + "'", function(err, result){
+          if (err) throw err;
+          user.id = result[0].id;
+        });
+        io.emit('register response', [success, user.id, user.key]);
+      }
+    });
+  });
+  socket.on("login req", function(user){
+    var success = 0;
+    con.query("SELECT `password`, `hash`, `userkey`, `id`, `collection` FROM users WHERE `username` = '" + user.name + "'", function(err, result){
+      if (err) throw err;
+      if (!result.length){
+        io.emit('login response', [0]);
+        return;
+      }
+      if (encrypt(user.pass + result[0].hash) == result[0].password){
+        io.emit('login response', [1, result[0].id, result[0].userkey]);
+      } else {
+        io.emit('login response', [0]);
+      }
+    });
+  });
+  socket.on("check account exists", function(acc){
+    con.query("SELECT `id` FROM users WHERE `id` = '"+ acc.userid +"' AND `userkey` = '"+ acc.userkey +"'", function(err, result){
+      if(err) throw err;
+      if(!result.length) io.emit("check account exists response", 0);
+      else io.emit("check account exists response", 1);
+    });
+  });
+  socket.on("collection req", function(userid){
+    con.query("SELECT `collection` FROM users WHERE `id` = '" + userid+ "'", function(err, result){
+      if (err) throw err;
+      if(result.length) io.emit("collection response", JSON.parse(result[0].collection));
     });
   });
 });

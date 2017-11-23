@@ -2,30 +2,30 @@
 
 <html>
   <head>
-    <title>Socket.IO chat</title>
+    <title>DM:TCG</title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
     <script src="/js/lib/underscore-min.js"></script>
     <script src="/js/lib/chance.min.js"></script>
     <script src="/socket.io/socket.io.js"></script>
     <script src="/js/game.js"></script>
   </head>
   <body>
-    <div class="battle-view">
-      <div class="battle-view-op">
-        <div class="battle-view-op-char"></div>
-        <div class="battle-view-op-hand"></div>
-      </div>
-      <div class="battle-view-bg">
-        <div class="battle-view-bg-op-row"></div>
-        <div class="battle-view-bg-pl-row"></div>
-      </div>
-      <div class="battle-view-pl">
-        <div class="battle-view-pl-char"></div>
-        <div class="battle-view-pl-hand"></div>
-      </div>
+    <div w3-include-html ></div>
+<!--    <script> $("[w3-include-html]").load("/html/register.html"); </script>-->
+<!--    <script> $("[w3-include-html]").load("/html/login.html"); </script>-->
+    <div class="opponent partition">
+      <h2>OPPONENT: </h2>
+    </div>
+    <div class="bg partition">
+      <h2>BATTLEGROUND: </h2>
+    </div>
+    <div class="player partition">
+      <h2>PLAYER: </h2>
     </div>
   </body>
 </html>
